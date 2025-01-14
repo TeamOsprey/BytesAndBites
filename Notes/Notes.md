@@ -7,23 +7,23 @@ We also talked about the possible outcome of these sessions, which for Clean Cod
 
 | Topic | Comment |
 |:---------- | :---------- |
-| Mastering Git: Best Practices and Common Pitfalls |
-| Clean Code: Principles and Practices for Writing Maintainable Code | Perhaps revewing one of the popular guidelines |
-| Object-Oriented Programming: Best Practices and Design Principles |
-| Design Patterns Demystified: Practical Solutions to Common Software Problems |
-| Effective Design Principles: DRY, SOLID, YAGNI, and Beyond |
-| Collaborative Coding: Pair Programming with AI Assistance |
-| Unit Testing Like a Pro: Best Practices and Strategies |
-| Test-Driven Development (TDD): Building Quality Software Through Testing First |
-| Refactoring Code: Techniques for Improving Existing Codebases |
-| Software Architecture Styles: Choosing the Right Fit for Your Application |
-| Optimizing File Storage Systems: Designing for Performance and Scalability |
-| Effective Logging Strategies: Best Practices for Monitoring and Debugging |
-| Performance Management in Software: Tools, Techniques, and Strategies |
-| Database Design and Optimization: Building Efficient and Scalable Systems |
+| __Mastering Git:__ Best Practices and Common Pitfalls |
+| __Clean Code:__ Principles and Practices for Writing Maintainable Code | Perhaps revewing one of the popular guidelines |
+| __Object-Oriented Programming:__ Best Practices and Design Principles |
+| __Design Patterns Demystified:__ Practical Solutions to Common Software Problems |
+| __Effective Design Principles:__ DRY, SOLID, YAGNI, and Beyond |
+| __Collaborative Coding:__ Pair Programming with AI Assistance |
+| __Unit Testing Like a Pro:__ Best Practices and Strategies |
+| __Test-Driven Development (TDD):__ Building Quality Software Through Testing First |
+| __Refactoring Code:__ Techniques for Improving Existing Codebases |
+| __Software Architecture Styles:__ Choosing the Right Fit for Your Application |
+| __Optimizing File Storage Systems:__ Designing for Performance and Scalability |
+| __Effective Logging Strategies:__ Best Practices for Monitoring and Debugging |
+| __Performance Management in Software:__ Tools, Techniques, and Strategies |
+| __Database Design and Optimization:__ Building Efficient and Scalable Systems |
 | Securing New Applications & Addressing Vulnerabilities in Legacy Systems | NIST & OWASP |
-| Leveraging DevOps: Tools and Practices for Agile Software Delivery |Guest speaker series |
-| Cloud Migration: Assessing When and How to Make the Move | Guest speaker series |
+| __Leveraging DevOps:__ Tools and Practices for Agile Software Delivery |Guest speaker series |
+| __Cloud Migration:__ Assessing When and How to Make the Move | Guest speaker series |
 
 ## 2025-01-07
 
