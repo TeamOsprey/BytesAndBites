@@ -1,4 +1,6 @@
 # Meeting Notes
+**Miro board:** https://miro.com/app/board/uXjVLq3f7QE=/
+
 ## 2025-01-21
 Today we talked about Clean Code. We started with choosing the questions or subjects to discuss. We talked about how to make functions smaller, how to name variables, and what design patterns to use.
 
