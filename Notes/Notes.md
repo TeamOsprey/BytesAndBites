@@ -1,4 +1,13 @@
 # Meeting Notes
+## 2025-01-21
+Today we talked about Clean Code. We started with choosing the questions or subjects to discuss. We talked about how to make functions smaller, how to name variables, and what design patterns to use.
+
+We talked about the possibility of using one of the existing style guide like from Google, or Microsoft as the guideline for our implementations. Mark also mwntioned the possibility of checking the style during git commit automatically.
+
+Next session we will continue with Clean Code and dig into what design patterns result clean codes.
+
+- [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
+- [Strategy Pattern](https://en.wikipedia.org/wiki/Strategy_pattern)
 
 ## 2025-01-14
 
