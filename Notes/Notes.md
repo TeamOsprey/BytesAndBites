@@ -11,6 +11,8 @@ Potential talks
 	- Logging 
 	- Code Review Process 
 
+Next session: Design Patterns
+
 ## 2025-01-21
 Today we talked about Clean Code. We started with choosing the questions or subjects to discuss. We talked about how to make functions smaller, how to name variables, and what design patterns to use.
 
