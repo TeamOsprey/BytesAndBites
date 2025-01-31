@@ -1,5 +1,5 @@
 # Meeting Calendar
-Meetings are happening both in person and online on Tuesdays at 12:00 PM AST for an hour.
+Meetings are held both in person and online every Tuesday at 12:00 PM AST for one hour.
 
 | Date | Topic |
 |:---- |:----|
