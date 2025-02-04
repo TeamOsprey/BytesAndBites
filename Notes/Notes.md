@@ -2,7 +2,7 @@
 Click here to access our [miro board](https://miro.com/app/board/uXjVLq3f7QE=/)
 
 ## 2025-02-04
-Andrew presented slides about four design patterns:
+Andrew covered the following design patterns in his presentation:
 - Singleton
 - Factory (Abstract Factory, Factory Method)
 - Builder
