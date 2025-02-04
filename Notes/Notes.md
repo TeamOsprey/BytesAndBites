@@ -1,6 +1,19 @@
 # Meeting Notes
 Click here to access our [miro board](https://miro.com/app/board/uXjVLq3f7QE=/)
 
+## 2025-02-04
+Andrew presented slides about four design patterns:
+- Singleton
+- Factory (Abstract Factory, Factory Method)
+- Builder
+
+__Links:__
+- [Refactory Guru](https://refactoring.guru/design-patterns)
+- [Design Patterns in C# Path | Pluralsight](https://app.pluralsight.com/paths/skill/design-patterns-in-c)
+- Free Course: https://youtu.be/NU_1StN5Tkk?si=u_Nf6IPyHiXHhfB1
+
+We agreed to continue with design patterns next week.
+
 ## 2025-01-28
 We watched [Clean Code talk by Robert Martin](https://youtu.be/7EmboKQH8lM) about the first rule of a function, function arguments, and switch statement.
 Some take aways from the talk:
