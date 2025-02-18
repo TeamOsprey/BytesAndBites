@@ -1,13 +1,22 @@
 # Meeting Notes
 Click here to access our [miro board](https://miro.com/app/board/uXjVLq3f7QE=/)
 
+## 2025-02-18
+Andrew covered the rest of structural patterns by presenting the following patterns:
+- Proxy
+- Bridge
+- Composite
+- Facade
+- Flyweight
+
+You can find the slides under Slides folder.
+
 ## 2025-02-11
 Andrew covered the following design patterns in his presentation:
 - Prototype
 - Decorator
 - Adapter
-- Proxy
-  
+     
 We agreed to continue with design patterns next week.
 
 ## 2025-02-04
