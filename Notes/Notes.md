@@ -9,7 +9,7 @@ Andrew covered the rest of structural patterns by presenting the following patte
 - Facade
 - Flyweight
 
-You can find the slides under Slides folder.
+You can find the [slides](Slides/BytesAndBites - Design Patterns - Structural.pptx) under Slides folder.
 
 ## 2025-02-11
 Andrew covered the following design patterns in his presentation:
