@@ -1,15 +1,45 @@
 # Meeting Notes
-**Miro board:** https://miro.com/app/board/uXjVLq3f7QE=/
+Click here to access our [miro board](https://miro.com/app/board/uXjVLq3f7QE=/)
+
+## 2025-02-11
+Andrew covered the following design patterns in his presentation:
+- Prototype
+- Decorator
+- Adapter
+- Proxy
+  
+We agreed to continue with design patterns next week.
+
+## 2025-02-04
+Andrew covered the following design patterns in his presentation:
+- Singleton
+- Factory (Abstract Factory, Factory Method)
+- Builder
+
+__Links:__
+- [Refactory Guru](https://refactoring.guru/design-patterns)
+- [Design Patterns in C# Path | Pluralsight](https://app.pluralsight.com/paths/skill/design-patterns-in-c)
+- Free Course: https://youtu.be/NU_1StN5Tkk?si=u_Nf6IPyHiXHhfB1
+
+We agreed to continue with design patterns next week.
 
 ## 2025-01-28
-Booleans shouldnt be passed to functions - Consider breaking things down to additional functions 
-Switch Statements can be problematic 
-	- Managing Dependency Requirements > Create classes
-	- Consider leveraging Polymorphism
+We watched [Clean Code talk by Robert Martin](https://youtu.be/7EmboKQH8lM) about the first rule of a function, function arguments, and switch statement.
+Some take aways from the talk:
+- Large functions are difficult to read and understand
+- A function gets large because it tries to do more than one thing.
+- Large functions can be broken down to classes and methods
+- Booleans shouldnt be passed to functions - Consider breaking things down to additional functions (one for true, another for false)
+- Switch Statements can be problematic
+  - Managing Dependency Requirements > Create classes
+  - Consider leveraging Polymorphism
+
+We also watched a short video about [Strategy Pattern](https://youtu.be/E9-4uaoncVY?si=WPijzbqeQ2V1Q3xV)
+
 Potential talks 
-	- Exception Handling
-	- Logging 
-	- Code Review Process 
+  - Exception Handling
+  - Logging 
+  - Code Review Process 
 
 Next session: Design Patterns
 
