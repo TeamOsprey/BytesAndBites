@@ -8,6 +8,7 @@ Meetings are held both in person and online every Tuesday at 12:00 PM AST for on
 | Feb 04, 2025 | __Clean Code__ Design Patterns - Creational |
 | Feb 11, 2025 | __Clean Code__ Design Patterns - Structural |
 | Feb 18, 2025 | __Clean Code__ Design Patterns - Structural |
-| Feb 25, 2025 | __Clean Code__ Design Patterns - Behavioural |
+| Feb 25, 2025 | __Clean Code__ Design Patterns - Proxy Pattern |
+| Mar 4, 2025 | __Clean Code__ Design Patterns - Behavioural |
 
 
