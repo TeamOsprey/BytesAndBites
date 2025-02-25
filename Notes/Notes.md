@@ -1,6 +1,14 @@
 # Meeting Notes
 Click here to access our [miro board](https://miro.com/app/board/uXjVLq3f7QE=/)
 
+## 2025-02-25
+- We watched [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
+- We chose Proxy pattern to dig into further and watched a video from [Design Patterns in the Real World, an Analysis-Based Approach](https://learning.oreilly.com/course/design-patterns-in/9781491935828/) course about this pattern. We think it was helpful and would like to watch more design pattern videos from this course.
+
+Next session:
+- Behavioural Design Patterns presentation
+- If we will have time, learn more about the use of Proxy pattern in Entity Framework
+
 ## 2025-02-18
 Andrew covered the rest of structural patterns by presenting the following patterns:
 - Proxy
