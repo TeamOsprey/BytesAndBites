@@ -1,6 +1,19 @@
 # Meeting Notes
 Click here to access our [miro board](https://miro.com/app/board/uXjVLq3f7QE=/)
 
+## 2025-03-11
+Continued the Behavioural Design Patterns series with 
+- Mediator
+- Memento 
+- Observer
+- State
+
+## 2025-03-04
+We reviewed the Behavioural Design Patterns 
+- Chain of Responsibility 
+- Command 
+- Iterator 
+
 ## 2025-02-25
 - We watched [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
 - We chose Proxy pattern to dig into further and watched a video from [Design Patterns in the Real World, an Analysis-Based Approach](https://learning.oreilly.com/course/design-patterns-in/9781491935828/) course about this pattern. We think it was helpful and would like to watch more design pattern videos from this course.
