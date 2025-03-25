@@ -1,6 +1,20 @@
 # Meeting Notes
 Click here to access our [miro board](https://miro.com/app/board/uXjVLq3f7QE=/)
 
+## 2025-03-25
+Finished the Behavioural Design Patterns series with 
+- Strategy
+- Template Method
+- Visitor
+
+Create __Design Patterns - All Stars Poll__
+- Vote on Favourites 
+- 
+- Use those to delve deeper into the use and application of that pattern
+
+## 2025-03-18
+Meeting Cancelled
+
 ## 2025-03-11
 Continued the Behavioural Design Patterns series with 
 - Mediator
@@ -47,7 +61,7 @@ Andrew covered the following design patterns in his presentation:
 - Builder
 
 __Links:__
-- [Refactory Guru](https://refactoring.guru/design-patterns)
+- [Refactoring Guru](https://refactoring.guru/design-patterns)
 - [Design Patterns in C# Path | Pluralsight](https://app.pluralsight.com/paths/skill/design-patterns-in-c)
 - Free Course: https://youtu.be/NU_1StN5Tkk?si=u_Nf6IPyHiXHhfB1
 
@@ -59,7 +73,7 @@ Some take aways from the talk:
 - Large functions are difficult to read and understand
 - A function gets large because it tries to do more than one thing.
 - Large functions can be broken down to classes and methods
-- Booleans shouldnt be passed to functions - Consider breaking things down to additional functions (one for true, another for false)
+- Booleans shouldn't be passed to functions - Consider breaking things down to additional functions (one for true, another for false)
 - Switch Statements can be problematic
   - Managing Dependency Requirements > Create classes
   - Consider leveraging Polymorphism
@@ -91,7 +105,7 @@ We also talked about the possible outcome of these sessions, which for Clean Cod
 | Topic | Comment |
 |:---------- | :---------- |
 | __Mastering Git:__ Best Practices and Common Pitfalls |
-| __Clean Code:__ Principles and Practices for Writing Maintainable Code | Perhaps revewing one of the popular guidelines |
+| __Clean Code:__ Principles and Practices for Writing Maintainable Code | Perhaps reviewing one of the popular guidelines |
 | __Object-Oriented Programming:__ Best Practices and Design Principles |
 | __Design Patterns Demystified:__ Practical Solutions to Common Software Problems |
 | __Effective Design Principles:__ DRY, SOLID, YAGNI, and Beyond |
@@ -104,7 +118,7 @@ We also talked about the possible outcome of these sessions, which for Clean Cod
 | __Effective Logging Strategies:__ Best Practices for Monitoring and Debugging |
 | __Performance Management in Software:__ Tools, Techniques, and Strategies |
 | __Database Design and Optimization:__ Building Efficient and Scalable Systems |
-| Securing New Applications & Addressing Vulnerabilities in Legacy Systems | NIST & OWASP |
+| __Securing New Applications & Addressing Vulnerabilities in Legacy Systems__ | NIST & OWASP |
 | __Leveraging DevOps:__ Tools and Practices for Agile Software Delivery |Guest speaker series |
 | __Cloud Migration:__ Assessing When and How to Make the Move | Guest speaker series |
 
@@ -117,7 +131,7 @@ We also talked about the possible outcome of these sessions, which for Clean Cod
  - Future inclusion of Public citizens by invite/approval
 
 - Goals
- - Create a network of softare enthusiasts who are looking to build on or improve their skills 
+ - Create a network of software enthusiasts who are looking to build on or improve their skills 
  - To create a common knowledge of best practices and possibly use them to 
 
 - For Next Session
