@@ -7,9 +7,8 @@ Finished the Behavioural Design Patterns series with
 - Template Method
 - Visitor
 
-Create __Design Patterns - All Stars Poll__
+Create Design Patterns - All Stars Poll
 - Vote on Favourites 
-- 
 - Use those to delve deeper into the use and application of that pattern
 
 ## 2025-03-18
