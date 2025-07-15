@@ -7,6 +7,7 @@ Vote on the future topics: [Poll](https://novascotia-my.sharepoint.com/:fl:/r/pe
 - We talked about our practices working with GitLab and OpenShift
 - We talked about benefits anc challenges with making our applications open-source
 - One of the concerns we discussed was about finding a bug in an open-source government application before we learn about it and fix it. We talked how bug bounty could help with this.
+- We also discussed the CVE and CWE databases, which catalog cybersecurity vulnerabilities.
   
 ## 2025-06-10
 - We solved Halifax's traffic issue :)
