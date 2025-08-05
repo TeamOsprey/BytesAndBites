@@ -3,6 +3,22 @@ Click here to access our [miro board](https://miro.com/app/board/uXjVLq3f7QE=/)
 
 Vote on the future topics: [Poll](https://novascotia-my.sharepoint.com/:fl:/r/personal/andrew_smith_novascotia_ca/Documents/Microsoft%20Teams%20Chat%20Files/Lunch%20and%20Learn%20Loop%20paragraph.loop?d=wa98bdf5b377a456e87a8a2e4905e69e0&csf=1&web=1&e=l3MLk6&nav=cz0lMkZwZXJzb25hbCUyRmFuZHJld19zbWl0aF9ub3Zhc2NvdGlhX2NhJmQ9YiUyMU83OFJBRTBsQUVheV9tNzV5d3RjQmFIRDJiMlNNWlpJa05sal9PZmEwdDliNlQ3SEkwMDFUNGlQb181c2llTmomZj0wMUxMSFRXUUszMzZGMlM2UlhOWkNZUEtGQzRTSUY0MlBBJmM9JTJGJmE9TG9vcEFwcA%3D%3D)
 
+## 2025-08-05
+- Paul from DevOps joined us to provide an overview of the solutions offered by his team and to answer questions related to OpenShift and GitLab.
+- GitLab pipelines are used in various ways, including cron jobs that can trigger pipeline executions.
+- SAST: Includes dependency checks and identification of potential code vulnerabilities.
+- DAST: Covers Threat Risk Assessment (TRA), dynamic analysis, and simulated attacks on your application. You currently don't have CPS, are using No-JS, and haven't implemented Django filters.
+- Deployment workflows vary significantly across the organization, and there is no standardized approach.
+- The use of Merge Requests is recommended, as they can provide a thorough report on the impact of changes to the application.
+- GitLab Duo: Refers to the integration of AI capabilities within GitLab.
+- Links:
+  - https://12factor.net/
+  - https://docs.splunk.com/Documentation/Splunk/9.4.2/Data/UsetheHTTPEventCollector
+  - https://about.gitlab.com/blog/chat-about-your-merge-request-with-gitlab-duo/
+  - DevOps Forms: https://devops.novascotia.ca/forms/
+  - https://python-gitlab.readthedocs.io/en/stable/index.html
+  - https://about.gitlab.com/blog/categories/product/
+
 ## 2025-07-29
 - Cloud Engineering and DevSecOps (OpenShift/GitLab) teams both confirmed speakers 
  - Cloud Engineering - Allan Crowther 
