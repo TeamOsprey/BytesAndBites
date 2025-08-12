@@ -3,6 +3,55 @@ Click here to access our [miro board](https://miro.com/app/board/uXjVLq3f7QE=/)
 
 Vote on the future topics: [Poll](https://novascotia-my.sharepoint.com/:fl:/r/personal/andrew_smith_novascotia_ca/Documents/Microsoft%20Teams%20Chat%20Files/Lunch%20and%20Learn%20Loop%20paragraph.loop?d=wa98bdf5b377a456e87a8a2e4905e69e0&csf=1&web=1&e=l3MLk6&nav=cz0lMkZwZXJzb25hbCUyRmFuZHJld19zbWl0aF9ub3Zhc2NvdGlhX2NhJmQ9YiUyMU83OFJBRTBsQUVheV9tNzV5d3RjQmFIRDJiMlNNWlpJa05sal9PZmEwdDliNlQ3SEkwMDFUNGlQb181c2llTmomZj0wMUxMSFRXUUszMzZGMlM2UlhOWkNZUEtGQzRTSUY0MlBBJmM9JTJGJmE9TG9vcEFwcA%3D%3D)
 
+## 2025-08-12
+
+### Meeting Recap 
+#### Things we did well:
+- Questions in advance
+- Engagement Questions for the crowd (Byron) 
+- Filler Questions - seed audience engagement
+- Taking note of items mentioned in the discussion 
+
+
+#### Things we can work on:
+- Communication in advance
+- Laying down meeting ground rules 
+	- (Recommended) Ask for Camera on when asking question
+	- Remain muted during meeting - Raise Hand / Type quesiton in chat
+- Closing recap
+	- Find out if there is a desire to have a deeper dive (second session)
+	- Areas of improvement (likes/dislike) 
+	- Take away - How might this topic apply to their work (inspire others)
+- Introduction of attendees (Small Groups) 
+	- Quick overview of who is who
+	- Name Role
+	- What working on 
+	- Reason you are here
+	- Do you have experience with the topic (yes/no)? 
+		(Some way to allow the host to set a baseline for the topic)
+- Introduction of attendees (Large Groups) 
+	- Poll crowd for levels of experience 
+		- Ask how many people are 
+			- App Devs 
+			- Product Owners 
+			- Database Admins 
+			- Use/Could use the technology (topic at hand)
+- Ask for Visuals 
+	- Bio info
+		- Why are they here / interested to talk about the topic
+	- (different learning styles - Facilitate remote users)
+	- (Recommended) Ask for Camera on
+	- Basic slide deck
+	- Demo
+
+#### Layout
+ - 5-10 min Introduction 
+ - 30 min Presentation 
+ - 20-15 min Questions 
+ - 5 min Recap
+----------------------------
+ - 60		min Total
+
 ## 2025-08-05
 - Paul from DevOps joined us to provide an overview of the solutions offered by his team and to answer questions related to OpenShift and GitLab.
 - GitLab pipelines are used in various ways, including cron jobs that can trigger pipeline executions.
