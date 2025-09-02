@@ -5,6 +5,7 @@ Vote on the future topics: [Poll](https://novascotia-my.sharepoint.com/:fl:/r/pe
 
 ## 2025-09-02
 
+<<<<<<< HEAD
 ### Cloud Engineering Team 
 #### Meeting Links
 - Cloud Teams SharePoint Site
@@ -23,6 +24,22 @@ Vote on the future topics: [Poll](https://novascotia-my.sharepoint.com/:fl:/r/pe
   - https://app-devopscmdb-dev.apps.nonprod-hfx1.novascotia.ca/
 
 
+=======
+__Guest:__ Allan Crowther
+
+You can ask for sandbox for every cloud platform in the organization.
+
+DevSecOps tem can help you with calculation of the cost of hosting an application in cloud.
+
+Every application is assigned to a Cost Centre and monthly billed for its cloud cost.
+
+### Links
+- [DevSecopsCloud](https://novascotia.sharepoint.com/sites/devsecopscloud)
+- [Pricing Calculator | Microsoft Azure](https://azure.microsoft.com/en-ca/pricing/calculator/?ef_id=_k_fb1a0562419914415e1d6dd54eff942a_k_&OCID=AIDcmmqz3gd78m_SEM__k_fb1a0562419914415e1d6dd54eff942a_k_&msclkid=fb1a0562419914415e1d6dd54eff942a)
+- [Microsoft Azure Marketplace](https://azuremarketplace.microsoft.com/en-US/)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+ 
+>>>>>>> 12ed1d9fb17b224f90945d1d1ac7a2e47d5970d9
 ## 2025-08-12
 
 ### Meeting Recap 
