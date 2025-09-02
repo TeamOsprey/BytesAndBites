@@ -3,6 +3,22 @@ Click here to access our [miro board](https://miro.com/app/board/uXjVLq3f7QE=/)
 
 Vote on the future topics: [Poll](https://novascotia-my.sharepoint.com/:fl:/r/personal/andrew_smith_novascotia_ca/Documents/Microsoft%20Teams%20Chat%20Files/Lunch%20and%20Learn%20Loop%20paragraph.loop?d=wa98bdf5b377a456e87a8a2e4905e69e0&csf=1&web=1&e=l3MLk6&nav=cz0lMkZwZXJzb25hbCUyRmFuZHJld19zbWl0aF9ub3Zhc2NvdGlhX2NhJmQ9YiUyMU83OFJBRTBsQUVheV9tNzV5d3RjQmFIRDJiMlNNWlpJa05sal9PZmEwdDliNlQ3SEkwMDFUNGlQb181c2llTmomZj0wMUxMSFRXUUszMzZGMlM2UlhOWkNZUEtGQzRTSUY0MlBBJmM9JTJGJmE9TG9vcEFwcA%3D%3D)
 
+## 2025-09-02
+
+__Guest:__ Allan Crowther
+
+You can ask for sandbox for every cloud platform in the organization.
+
+DevSecOps tem can help you with calculation of the cost of hosting an application in cloud.
+
+Every application is assigned to a Cost Centre and monthly billed for its cloud cost.
+
+### Links
+- [DevSecopsCloud](https://novascotia.sharepoint.com/sites/devsecopscloud)
+- [Pricing Calculator | Microsoft Azure](https://azure.microsoft.com/en-ca/pricing/calculator/?ef_id=_k_fb1a0562419914415e1d6dd54eff942a_k_&OCID=AIDcmmqz3gd78m_SEM__k_fb1a0562419914415e1d6dd54eff942a_k_&msclkid=fb1a0562419914415e1d6dd54eff942a)
+- [Microsoft Azure Marketplace](https://azuremarketplace.microsoft.com/en-US/)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+ 
 ## 2025-08-12
 
 ### Meeting Recap 
