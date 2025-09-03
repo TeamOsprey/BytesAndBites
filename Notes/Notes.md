@@ -8,11 +8,9 @@ Vote on the future topics: [Poll](https://novascotia-my.sharepoint.com/:fl:/r/pe
 ### Cloud Engineering Team 
 __Guest:__ Allan Crowther
 
-You can ask for sandbox for every cloud platform in the organization.
-
-DevSecOps tem can help you with calculation of the cost of hosting an application in cloud.
-
-Every application is assigned to a Cost Centre and monthly billed for its cloud cost.
+- You can request a sandbox environment for any cloud platform supported within the organization.
+- The DevSecOps team is available to assist with estimating the cost of hosting applications in the cloud.
+- Each application is linked to a designated Cost Centre and is billed monthly based on its cloud usage.
 
 ### Links
 - [DevSecOpsCloud](https://novascotia.sharepoint.com/sites/devsecopscloud)
