@@ -9,6 +9,7 @@ Vote on the future topics: [Poll](https://novascotia-my.sharepoint.com/:fl:/r/pe
 - We started looking into [this github repo](https://github.com/kgrzybek/modular-monolith-with-ddd) as an example of Modular Monolith application
 - We also looked at [C4 Model website](https://c4model.com/diagrams) to better understand the diagrams in the repo
 - Next session we will continue looking at the structure of each module in the above repo
+  - Found [this video](https://www.youtube.com/watch?v=VnIWtVdbwTg&t=1080s) also interesting where this architecture is explained with an example
   
 ## 2025-10-14
 - We watched the next architecture lesson on Modular Monolith
