@@ -3,6 +3,11 @@ Click here to access our [miro board](https://miro.com/app/board/uXjVLq3f7QE=/)
 
 Vote on the future topics: [Poll](https://novascotia-my.sharepoint.com/:fl:/r/personal/andrew_smith_novascotia_ca/Documents/Microsoft%20Teams%20Chat%20Files/Lunch%20and%20Learn%20Loop%20paragraph.loop?d=wa98bdf5b377a456e87a8a2e4905e69e0&csf=1&web=1&e=l3MLk6&nav=cz0lMkZwZXJzb25hbCUyRmFuZHJld19zbWl0aF9ub3Zhc2NvdGlhX2NhJmQ9YiUyMU83OFJBRTBsQUVheV9tNzV5d3RjQmFIRDJiMlNNWlpJa05sal9PZmEwdDliNlQ3SEkwMDFUNGlQb181c2llTmomZj0wMUxMSFRXUUszMzZGMlM2UlhOWkNZUEtGQzRTSUY0MlBBJmM9JTJGJmE9TG9vcEFwcA%3D%3D)
 
+## 2025-11-18
+- We watched the full [modular monolith with .NET video](https://www.youtube.com/watch?v=VnIWtVdbwTg&t=1080s)
+- We also spent about 15 mins on [Intorduction to MediatR video](https://youtu.be/yozD5Tnd8nw?si=tiZt7HmKil8C0V8l)
+- In the next session, we will revisit the resources from Oct 21 and continue reviewing the GitHub repo or watchiung the remaining of Modular Monolith lesson.
+  
 ## 2025-11-04
 - We watched [modular monolith with .NET video](https://www.youtube.com/watch?v=VnIWtVdbwTg&t=1080s) up to minuite 40.
 - Next session we can discuss MeditR and watch the rest of the video and review some of the speaker's repos.
