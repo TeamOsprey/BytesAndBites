@@ -3,6 +3,12 @@ Click here to access our [miro board](https://miro.com/app/board/uXjVLq3f7QE=/)
 
 Vote on the future topics: [Poll](https://novascotia-my.sharepoint.com/:fl:/r/personal/andrew_smith_novascotia_ca/Documents/Microsoft%20Teams%20Chat%20Files/Lunch%20and%20Learn%20Loop%20paragraph.loop?d=wa98bdf5b377a456e87a8a2e4905e69e0&csf=1&web=1&e=l3MLk6&nav=cz0lMkZwZXJzb25hbCUyRmFuZHJld19zbWl0aF9ub3Zhc2NvdGlhX2NhJmQ9YiUyMU83OFJBRTBsQUVheV9tNzV5d3RjQmFIRDJiMlNNWlpJa05sal9PZmEwdDliNlQ3SEkwMDFUNGlQb181c2llTmomZj0wMUxMSFRXUUszMzZGMlM2UlhOWkNZUEtGQzRTSUY0MlBBJmM9JTJGJmE9TG9vcEFwcA%3D%3D)
 
+## 2026-03-10
+- We reviewed GitHub Copilot CLI
+- The video we watched: https://www.youtube.com/watch?v=BDxRhhs36ns
+- We also tried the tool on investigating on a failed Unit Test for a production application.
+- Next session we can continue exploring what we can do with GitHub Copilot. We can take a look at this [playlist](https://www.youtube.com/watch?v=n0NlxUyA7FI&list=PL0lo9MOBetEFc6rN_y9-YKA3plCSUb1NP).
+  
 ## 2025-11-18
 - We watched the full [modular monolith with .NET video](https://www.youtube.com/watch?v=VnIWtVdbwTg&t=1080s)
 - We also spent about 15 mins on [Intorduction to MediatR video](https://youtu.be/yozD5Tnd8nw?si=tiZt7HmKil8C0V8l)
