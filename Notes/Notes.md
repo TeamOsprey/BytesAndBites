@@ -3,6 +3,13 @@ Click here to access our [miro board](https://miro.com/app/board/uXjVLq3f7QE=/)
 
 Vote on the future topics: [Poll](https://novascotia-my.sharepoint.com/:fl:/r/personal/andrew_smith_novascotia_ca/Documents/Microsoft%20Teams%20Chat%20Files/Lunch%20and%20Learn%20Loop%20paragraph.loop?d=wa98bdf5b377a456e87a8a2e4905e69e0&csf=1&web=1&e=l3MLk6&nav=cz0lMkZwZXJzb25hbCUyRmFuZHJld19zbWl0aF9ub3Zhc2NvdGlhX2NhJmQ9YiUyMU83OFJBRTBsQUVheV9tNzV5d3RjQmFIRDJiMlNNWlpJa05sal9PZmEwdDliNlQ3SEkwMDFUNGlQb181c2llTmomZj0wMUxMSFRXUUszMzZGMlM2UlhOWkNZUEtGQzRTSUY0MlBBJmM9JTJGJmE9TG9vcEFwcA%3D%3D)
 
+## 2026-03-24
+- We continued looking into Github Copilot CLI
+- We watched the videos from this [Github Copilot 101 page](https://github.blog/ai-and-ml/github-copilot-cli-101-how-to-use-github-copilot-from-the-command-line/)
+- Next session: we can try some of the features we learned from the tutorial videos
+- We can learn how to give copilot access to websites that require authentication
+- How to add Gitlab MCP to copilot cli
+
 ## 2026-03-10
 - We reviewed GitHub Copilot CLI
 - The video we watched: https://www.youtube.com/watch?v=BDxRhhs36ns
