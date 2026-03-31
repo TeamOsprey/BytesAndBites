@@ -7,6 +7,8 @@ Vote on the future topics: [Poll](https://novascotia-my.sharepoint.com/:fl:/r/pe
 - We watched part of recordings of "AI Codecon: Software Craftsmanship in the Age of AI".
 - We thought about trying some of the platforms to setup agents during Coding Dojo sessions.
 - One idea is getting agents to complete the coding of Reversi game in our github repo.
+- Next session: we can either continue watching AI Codecon video or learn how to setup OpenClaw from the following event:
+  - AI Product Lab: OpenClaw Up and Running with Aman Khan and Tal Raviv
   
 ## 2026-03-24
 - We continued looking into Github Copilot CLI
